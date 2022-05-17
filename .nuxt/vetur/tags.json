@@ -1,0 +1,11 @@
+{
+  "SsrCarousel": {
+    "description": "Auto imported from node_modules/vue-ssr-carousel/index.js"
+  },
+  "FooterBar": {
+    "description": "Auto imported from components/FooterBar.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  }
+}

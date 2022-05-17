@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+
+.nuxt-link-exact-active {
+  @apply font-semibold
+  text-white bg-indigo-500;
+}
+
+
+@tailwind utilities;
+
+
+@font-face {
+  font-family:"Epilogue";
+  src: url('~/assets/font/Epilogue-VariableFont_wght.ttf');
+}

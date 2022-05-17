@@ -1,0 +1,30 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\acer\\\\Desktop\\\\dashboard\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_01e81d42"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\acer\\\\Desktop\\\\dashboard\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_2ecc2792"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "C:\\\\Users\\\\acer\\\\Desktop\\\\dashboard\\\\pages\\\\user.vue",
+    "chunkName": "pages/user",
+    "_name": "_29dcbd76"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\acer\\\\Desktop\\\\dashboard\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_35644e48"
+  }
+]

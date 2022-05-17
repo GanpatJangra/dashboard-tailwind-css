@@ -1,0 +1,19 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/ssr-carousel.js": "components/ssr-carousel.js",
+    "pages/index.js": "pages/index.js",
+    "pages/login.js": "pages/login.js",
+    "pages/signup.js": "pages/signup.js",
+    "pages/user.js": "pages/user.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/ssr-carousel.js": "components/ssr-carousel.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/login.js": "pages/login.js.map",
+    "pages/signup.js": "pages/signup.js.map",
+    "pages/user.js": "pages/user.js.map",
+    "server.js": "server.js.map"
+  }
+}
