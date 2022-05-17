@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> b745ca3dd42ac1f1edaba78a3b12f988e3f5c37c
 
 ## Build Setup
 
